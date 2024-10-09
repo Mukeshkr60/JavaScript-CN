@@ -254,9 +254,9 @@ console.log("outside switch");
 
 // ! Ternary operator
 
-// condition ? (true) exp : (false) exp
+// condition ? (true) expression : (false) expression
 
-// let num3 = 5;
-// num3 % 2 === 0 ? 
-// console.log('even')
-// : console.log('odd') ;
+let num4 = 5;
+num4 % 2 === 0 ? 
+console.log('even')
+: console.log('odd') ;
